@@ -1,0 +1,22 @@
+Percentage of each language is in the following:
+singLangPer[fi]= 0.113378684807
+singLangPer[fr]= 3.62811791383
+singLangPer[en]= 75.3968253968
+singLangPer[nl]= 0.566893424036
+singLangPer[pt]= 4.08163265306
+singLangPer[tr]= 0.907029478458
+singLangPer[de]= 0.226757369615
+singLangPer[ko]= 0.226757369615
+singLangPer[it]= 1.02040816327
+singLangPer[ht]= 0.113378684807
+singLangPer[fa]= 0.226757369615
+singLangPer[tl]= 0.113378684807
+singLangPer[hi]= 0.226757369615
+singLangPer[und]= 6.46258503401
+singLangPer[in]= 0.113378684807
+singLangPer[et]= 0.113378684807
+singLangPer[ro]= 0.113378684807
+singLangPer[ar]= 1.47392290249
+singLangPer[ja]= 0.340136054422
+singLangPer[es]= 4.42176870748
+Percentage of Geotagged tweets are 2.380952 %

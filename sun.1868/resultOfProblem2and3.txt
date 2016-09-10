@@ -1,0 +1,271 @@
+Percentage of LangID tagged tweets is 86.670000 % 
+Number of different Language 42
+Different language and their corresponding percentage by twitter API is: 
+singLangPer[el]= 0.103842159917
+singLangPer[en]= 36.2986038999
+singLangPer[zh]= 0.0346140533056
+singLangPer[vi]= 0.0115380177685
+singLangPer[is]= 0.0230760355371
+singLangPer[it]= 0.334602515288
+singLangPer[iw]= 0.0115380177685
+singLangPer[cs]= 0.0807661243798
+singLangPer[cy]= 0.0115380177685
+singLangPer[ar]= 9.34579439252
+singLangPer[in]= 1.31533402561
+singLangPer[eu]= 0.0230760355371
+singLangPer[et]= 0.115380177685
+singLangPer[es]= 15.3686396677
+singLangPer[ru]= 0.334602515288
+singLangPer[nl]= 0.103842159917
+singLangPer[pt]= 9.84192915657
+singLangPer[no]= 0.0461520710742
+singLangPer[tr]= 1.17687781239
+singLangPer[ne]= 0.0346140533056
+singLangPer[lv]= 0.0115380177685
+singLangPer[lt]= 0.0115380177685
+singLangPer[th]= 1.71916464751
+singLangPer[ro]= 0.0692281066113
+singLangPer[pl]= 0.103842159917
+singLangPer[fr]= 0.957655474789
+singLangPer[bn]= 0.0115380177685
+singLangPer[de]= 0.184608284297
+singLangPer[ht]= 0.253836390908
+singLangPer[da]= 0.0576900888427
+singLangPer[fa]= 0.0461520710742
+singLangPer[hi]= 0.0461520710742
+singLangPer[fi]= 0.0230760355371
+singLangPer[hu]= 0.0230760355371
+singLangPer[ja]= 11.5380177685
+singLangPer[tl]= 0.773047190493
+singLangPer[ko]= 2.642206069
+singLangPer[sv]= 0.0346140533056
+singLangPer[ur]= 0.0115380177685
+singLangPer[und]= 6.80743048344
+singLangPer[uk]= 0.0461520710742
+singLangPer[sl]= 0.0115380177685
+Different language and their corresponding percentage checked by langid is:
+langDic[ga]= 0.07
+langDic[gl]= 0.51
+langDic[lb]= 0.03
+langDic[la]= 0.61
+langDic[lo]= 0.04
+langDic[tr]= 0.87
+langDic[lv]= 0.03
+langDic[tl]= 0.31
+langDic[th]= 1.51
+langDic[de]= 1.02
+langDic[da]= 0.14
+langDic[qu]= 0.09
+langDic[el]= 0.23
+langDic[eo]= 0.27
+langDic[en]= 30.82
+langDic[zh]= 0.95
+langDic[eu]= 0.1
+langDic[zu]= 0.01
+langDic[es]= 11.88
+langDic[ru]= 0.29
+langDic[rw]= 0.12
+langDic[ro]= 0.11
+langDic[bn]= 0.03
+langDic[be]= 0.03
+langDic[ms]= 0.49
+langDic[wa]= 0.03
+langDic[jv]= 0.17
+langDic[br]= 0.1
+langDic[bs]= 0.02
+langDic[ja]= 10.24
+langDic[oc]= 0.09
+langDic[or]= 0.01
+langDic[xh]= 0.04
+langDic[ca]= 0.2
+langDic[cy]= 0.11
+langDic[cs]= 0.12
+langDic[ps]= 0.06
+langDic[pt]= 6.66
+langDic[lt]= 0.22
+langDic[pl]= 0.57
+langDic[hy]= 0.04
+langDic[hr]= 0.01
+langDic[ht]= 0.02
+langDic[hu]= 0.12
+langDic[hi]= 0.04
+langDic[an]= 0.24
+langDic[he]= 0.14
+langDic[mg]= 0.08
+langDic[ml]= 0.03
+langDic[mk]= 0.02
+langDic[ur]= 0.28
+langDic[mt]= 0.27
+langDic[uk]= 0.04
+langDic[ug]= 0.04
+langDic[af]= 0.09
+langDic[vi]= 0.06
+langDic[is]= 0.05
+langDic[am]= 0.24
+langDic[it]= 0.91
+langDic[vo]= 0.01
+langDic[ar]= 7.84
+langDic[et]= 0.2
+langDic[az]= 0.08
+langDic[id]= 0.55
+langDic[nl]= 0.37
+langDic[nn]= 0.02
+langDic[no]= 0.22
+langDic[nb]= 0.01
+langDic[ne]= 0.03
+langDic[fr]= 1.26
+langDic[sv]= 0.13
+langDic[fa]= 0.29
+langDic[fi]= 0.46
+langDic[ka]= 0.04
+langDic[kk]= 0.01
+langDic[sr]= 0.01
+langDic[sq]= 0.05
+langDic[ko]= 2.44
+langDic[kn]= 0.01
+langDic[km]= 0.14
+langDic[sk]= 0.08
+langDic[si]= 0.04
+langDic[ku]= 0.04
+langDic[sl]= 0.22
+langDic[sw]= 0.15
+langDic[se]= 0.05
+Percentage of different language checked by API and langid is in the following:
+combDict[ga]= [0.0, 0.07]
+combDict[gl]= [0.0, 0.51]
+combDict[lb]= [0.0, 0.03]
+combDict[la]= [0.0, 0.61]
+combDict[lo]= [0.0, 0.04]
+combDict[tr]= [1.176877812391831, 0.87]
+combDict[lv]= [0.011538017768547362, 0.03]
+combDict[lt]= [0.011538017768547362, 0.22]
+combDict[th]= [1.7191646475135571, 1.51]
+combDict[de]= [0.1846082842967578, 1.02]
+combDict[da]= [0.057690088842736825, 0.14]
+combDict[qu]= [0.0, 0.09]
+combDict[el]= [0.10384215991692627, 0.23]
+combDict[eo]= [0.0, 0.27]
+combDict[en]= [36.29860389985001, 30.82]
+combDict[zh]= [0.034614053305642094, 0.95]
+combDict[eu]= [0.023076035537094725, 0.1]
+combDict[et]= [0.11538017768547365, 0.2]
+combDict[es]= [15.36863966770509, 11.88]
+combDict[ru]= [0.33460251528787355, 0.29]
+combDict[rw]= [0.0, 0.12]
+combDict[ro]= [0.06922810661128419, 0.11]
+combDict[bn]= [0.011538017768547362, 0.03]
+combDict[be]= [0.0, 0.03]
+combDict[uk]= [0.04615207107418945, 0.04]
+combDict[wa]= [0.0, 0.03]
+combDict[jv]= [0.0, 0.17]
+combDict[br]= [0.0, 0.1]
+combDict[bs]= [0.0, 0.02]
+combDict[ja]= [11.538017768547364, 10.24]
+combDict[oc]= [0.0, 0.09]
+combDict[und]= [6.807430483442944, 0.0]
+combDict[or]= [0.0, 0.01]
+combDict[xh]= [0.0, 0.04]
+combDict[ca]= [0.0, 0.2]
+combDict[cy]= [0.011538017768547362, 0.11]
+combDict[cs]= [0.08076612437983154, 0.12]
+combDict[ps]= [0.0, 0.06]
+combDict[pt]= [9.8419291565709, 6.66]
+combDict[tl]= [0.7730471904926733, 0.31]
+combDict[pl]= [0.10384215991692627, 0.57]
+combDict[hy]= [0.0, 0.04]
+combDict[hr]= [0.0, 0.01]
+combDict[ht]= [0.253836390908042, 0.02]
+combDict[hu]= [0.023076035537094725, 0.12]
+combDict[hi]= [0.04615207107418945, 0.04]
+combDict[an]= [0.0, 0.24]
+combDict[he]= [0.0, 0.14]
+combDict[mg]= [0.0, 0.08]
+combDict[ml]= [0.0, 0.03]
+combDict[mk]= [0.0, 0.02]
+combDict[ur]= [0.011538017768547362, 0.28]
+combDict[mt]= [0.0, 0.27]
+combDict[ms]= [0.0, 0.49]
+combDict[ug]= [0.0, 0.04]
+combDict[af]= [0.0, 0.09]
+combDict[vi]= [0.011538017768547362, 0.06]
+combDict[is]= [0.023076035537094725, 0.05]
+combDict[am]= [0.0, 0.24]
+combDict[it]= [0.33460251528787355, 0.91]
+combDict[iw]= [0.011538017768547362, 0.0]
+combDict[vo]= [0.0, 0.01]
+combDict[ar]= [9.345794392523365, 7.84]
+combDict[in]= [1.3153340256143995, 0.0]
+combDict[az]= [0.0, 0.08]
+combDict[id]= [0.0, 0.55]
+combDict[nl]= [0.10384215991692627, 0.37]
+combDict[nn]= [0.0, 0.02]
+combDict[no]= [0.04615207107418945, 0.22]
+combDict[nb]= [0.0, 0.01]
+combDict[ne]= [0.034614053305642094, 0.03]
+combDict[zu]= [0.0, 0.01]
+combDict[fr]= [0.9576554747894311, 1.26]
+combDict[sv]= [0.034614053305642094, 0.13]
+combDict[fa]= [0.04615207107418945, 0.29]
+combDict[fi]= [0.023076035537094725, 0.46]
+combDict[ka]= [0.0, 0.04]
+combDict[kk]= [0.0, 0.01]
+combDict[sr]= [0.0, 0.01]
+combDict[sq]= [0.0, 0.05]
+combDict[ko]= [2.642206068997346, 2.44]
+combDict[kn]= [0.0, 0.01]
+combDict[km]= [0.0, 0.14]
+combDict[sk]= [0.0, 0.08]
+combDict[si]= [0.0, 0.04]
+combDict[ku]= [0.0, 0.04]
+combDict[sl]= [0.011538017768547362, 0.22]
+combDict[sw]= [0.0, 0.15]
+combDict[se]= [0.0, 0.05]
+Number of different tagged language checked by langid.py is 86
+Languages that twitter API disagree are in the following:
+ga
+gl
+lb
+la
+lo
+qu
+eo
+zu
+rw
+be
+ms
+wa
+jv
+br
+bs
+oc
+or
+xh
+ca
+ps
+hy
+hr
+an
+he
+mg
+ml
+mk
+mt
+ug
+af
+am
+vo
+az
+id
+nn
+nb
+ka
+kk
+sr
+sq
+kn
+km
+sk
+si
+ku
+sw
+se

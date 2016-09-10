@@ -1,0 +1,94 @@
+Percentage of LangID tagged tweets is 86.670000 % 
+Number of different Language 42
+Different language and their corresponding percentage: 
+singLangPer[el]= 0.214285714286
+singLangPer[en]= 74.9047619048
+singLangPer[zh]= 0.0714285714286
+singLangPer[vi]= 0.0238095238095
+singLangPer[is]= 0.047619047619
+singLangPer[it]= 0.690476190476
+singLangPer[iw]= 0.0238095238095
+singLangPer[cs]= 0.166666666667
+singLangPer[cy]= 0.0238095238095
+singLangPer[ar]= 19.2857142857
+singLangPer[in]= 2.71428571429
+singLangPer[eu]= 0.047619047619
+singLangPer[et]= 0.238095238095
+singLangPer[es]= 31.7142857143
+singLangPer[ru]= 0.690476190476
+singLangPer[nl]= 0.214285714286
+singLangPer[pt]= 20.3095238095
+singLangPer[no]= 0.0952380952381
+singLangPer[tr]= 2.42857142857
+singLangPer[ne]= 0.0714285714286
+singLangPer[lv]= 0.0238095238095
+singLangPer[lt]= 0.0238095238095
+singLangPer[th]= 3.54761904762
+singLangPer[ro]= 0.142857142857
+singLangPer[pl]= 0.214285714286
+singLangPer[fr]= 1.97619047619
+singLangPer[bn]= 0.0238095238095
+singLangPer[de]= 0.380952380952
+singLangPer[ht]= 0.52380952381
+singLangPer[da]= 0.119047619048
+singLangPer[fa]= 0.0952380952381
+singLangPer[hi]= 0.0952380952381
+singLangPer[fi]= 0.047619047619
+singLangPer[hu]= 0.047619047619
+singLangPer[ja]= 23.8095238095
+singLangPer[tl]= 1.59523809524
+singLangPer[ko]= 5.45238095238
+singLangPer[sv]= 0.0714285714286
+singLangPer[ur]= 0.0238095238095
+singLangPer[und]= 14.0476190476
+singLangPer[uk]= 0.0952380952381
+singLangPer[sl]= 0.0238095238095
+Number of different tagged language checked by langid.py is 86
+Languages that twitter API disagree are in the following:
+ga
+gl
+lb
+la
+lo
+qu
+eo
+zu
+rw
+be
+ms
+wa
+jv
+br
+bs
+oc
+or
+xh
+ca
+ps
+hy
+hr
+an
+he
+mg
+ml
+mk
+mt
+ug
+af
+am
+vo
+az
+id
+nn
+nb
+ka
+kk
+sr
+sq
+kn
+km
+sk
+si
+ku
+sw
+se
